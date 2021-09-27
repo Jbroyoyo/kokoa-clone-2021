@@ -1,0 +1,7 @@
+input:focus {
+  outline: none;
+}
+
+:root {
+  --yellow: #fae100;
+}
