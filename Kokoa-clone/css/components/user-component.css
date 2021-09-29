@@ -40,3 +40,20 @@
 .user-component__column:last-child {
   opacity: 0.4;
 }
+
+/*  especially chats.html */
+.user-component__column {
+  font-size: 13px;
+  padding-right: 30px;
+}
+.user-component__notif {
+  color: whitesmoke;
+  background-color: red;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 20px;
+  width: 20px;
+  border-radius: 100%;
+  margin-top: 7px;
+}

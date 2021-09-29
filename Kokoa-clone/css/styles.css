@@ -18,5 +18,7 @@ body {
   font-family: "Open Sans", sans-serif;
   font-family: "Stick No Bills", sans-serif;
   color: #2e363e;
-  background-color: #f4f6f8;
+}
+.chats-screen {
+  padding-top: 3px;
 }
