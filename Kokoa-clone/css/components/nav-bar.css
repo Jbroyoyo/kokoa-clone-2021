@@ -15,18 +15,10 @@
   position: relative;
 }
 .nav__notif {
-  background-color: red;
-  height: 25px;
-  width: 25px;
-  display: flex;
-  justify-content: center;
-  align-items: center;
-  border-radius: 50%;
   position: absolute;
-  color: white;
   font-weight: 600;
-  right: -15px;
-  top: -20px;
+  right: -7px;
+  top: -18px;
 }
 .nav__notif2 {
   background-color: rgb(253, 85, 55);
